@@ -73,7 +73,7 @@ PyJWT==2.3.0
 PyMySQL==1.0.2
 pyparsing==2.4.7
 pypinyin==0.22.0
-pypiwin32==223
+
 PyQt5==5.15.4
 PyQt5-Qt5==5.15.2
 PyQt5-sip==12.9.0
